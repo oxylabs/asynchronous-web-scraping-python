@@ -1,5 +1,21 @@
 # Asynchronous Web Scraping With Python & AIOHTTP
 
+- [Sending asynchronous HTTP requests](#sending-asynchronous-http-requests)
+  * [1. Create an empty Python file with a main function](#1-create-an-empty-python-file-with-a-main-function)
+  * [2. Track script execution time](#2-track-script-execution-time)
+  * [3. Create a loop](#3-create-a-loop)
+  * [4. Create a scrape functionality](#4-create-a-scrape-functionality)
+  * [5. Add save_product function](#5-add-save_product-function)
+  * [6. Run the script](#6-run-the-script)
+- [Sending synchronous HTTP requests](#sending-synchronous-http-requests)
+  * [1. Create a Python file with a main function](#1-create-a-python-file-with-a-main-function)
+  * [2. Track script execution time](#2-track-script-execution-time-1)
+  * [3. Create a loop](#3-create-a-loop-1)
+  * [4. Create a scrape function](#4-create-a-scrape-function)
+  * [5. Add save_product function](#5-add-save_product-function-1)
+  * [6. Run the script](#6-run-the-script-1)
+- [Comparing the performance of sync and async](#comparing-the-performance-of-sync-and-async)
+
 In this tutorial, we will focus on scraping multiple URLs using the asynchronous method, and by comparing it to the synchronous one, we will demonstrate why it can be more beneficial. See the [<u>full blog
 post</u>](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp)
 for more information on asynchronous web scraping.
@@ -249,7 +265,7 @@ loop.run_until_complete(main())
 
 Lastly, you can run the script and see the data.
 
-![Asynchronous web scraping output](images/asynchrounous_output.png)
+![Asynchronous web scraping output](images/asynchronous_output.png)
 
 ## Sending synchronous HTTP requests
 
