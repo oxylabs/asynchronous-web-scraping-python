@@ -1,5 +1,7 @@
 # Asynchronous Web Scraping With Python & AIOHTTP
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
 - [Sending asynchronous HTTP requests](#sending-asynchronous-http-requests)
   * [1. Create an empty Python file with a main function](#1-create-an-empty-python-file-with-a-main-function)
   * [2. Track script execution time](#2-track-script-execution-time)
