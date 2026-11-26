@@ -1,8 +1,8 @@
 # Asynchronous Web Scraping With Python & AIOHTTP
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=asynchronous-web-scraping-python-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=asynchronous-web-scraping-python&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=asynchronous-web-scraping-python&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
@@ -25,7 +25,7 @@
 - [Comparing the performance of sync and async](#comparing-the-performance-of-sync-and-async)
 
 In this tutorial, we will focus on scraping multiple URLs using the asynchronous method, and by comparing it to the synchronous one, we will demonstrate why it can be more beneficial. See the [<u>full blog
-post</u>](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp)
+post</u>](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp?utm_source=github&utm_medium=referral&utm_content=asynchronous-web-scraping-python&groupid=877)
 for more information on asynchronous web scraping.
 
 You can also check out [<u>one of our videos</u>](https://www.youtube.com/watch?v=Raa9f5kpvtE) for a visual representation of
